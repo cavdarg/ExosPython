@@ -1,7 +1,7 @@
 # 1/ My Python code forever
 
-# 2 / My Python code 
-#every day
+''' 2 / My Python code 
+every day'''
 
 # 3 / Types de variables
 a = 2
